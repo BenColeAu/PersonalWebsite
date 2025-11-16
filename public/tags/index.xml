@@ -10,11 +10,11 @@
     <lastBuildDate>Fri, 14 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example</title>
-      <link>http://localhost:1313/tags/example/</link>
+      <title>About Me</title>
+      <link>http://localhost:1313/tags/about-me/</link>
       <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/example/</guid>
+      <guid>http://localhost:1313/tags/about-me/</guid>
       <description></description>
       
     </item>
@@ -30,11 +30,11 @@
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/tags/about-me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Welcome</title>
+      <link>http://localhost:1313/tags/welcome/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/about-me/</guid>
+      <guid>http://localhost:1313/tags/welcome/</guid>
       <description></description>
       
     </item>

@@ -21,6 +21,8 @@ In my next article I will publish the link to the repo which will be located on 
 
 If you are interested in contributing to this repo please do so via github and I will review pull requests as quickly as possible. Please ensure all packages are made generic and with things like organisational details and license keys excluded and replaced with placeholders.
 
+{{< github repo="bencoleau/intune" showThumbnail=true >}}
+
 Best of luck. 
 Ben
 
